@@ -1,17 +1,18 @@
 # REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
-COMPANY : CODTECH IT SOLUTIONS
 
-NAME : KOTA AJITH KUMAR
+*COMPANY*: CODTECH IT SOLUTIONS
 
-INTERN ID : CT04WA89
+*NAME*: INTIYAJ ANSARI 
 
-DOMAIN : FULL STACK DEVELOPMENT
+*INTERN ID*: CT04WR21
 
-DURATION : 4WEEKS
+*DOMAIN*: FRONT END DEVELOPMENT
 
-MENTOR : NEELA SANTOSH
+*DURATION*: 1 WEEK
 
-DESCRIPTION :
+*MENTOR*: NEELA SANTOSH
+
+## DESCRIPTION :
 
 📌 Project Overview Introduction
 In modern web applications, real-time collaboration has become a crucial feature, enabling multiple users to interact and modify data simultaneously. This project implements a real-time text editor where users can collaboratively edit text with formatting options such as bold, italic, and underline. The backend is built using Node.js, Express.js, and Socket.IO, while PostgreSQL is used for persistent data storage.
